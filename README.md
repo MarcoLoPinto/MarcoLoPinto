@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my GitHub profile!
 
 <p align="justify">
-Hello! I'm @MarcoLoPinto! My passion lies at the intersection of advanced technology and real-world applications, with a strong focus on developing practical AI and machine learning solutions. I have been involved in research projects centered around natural language processing and semantic analysis, aiming to enhance the way machines understand human language. I thrive in dynamic environments and am always eager to tackle new challenges and broaden my technical expertise!
+Hello! I'm @MarcoLoPinto! My passion lies at the intersection of advanced technology and real-world applications, with a strong focus on developing practical AI and machine learning solutions. I have been involved in research projects centered around natural language processing and semantic analysis, aiming to enhance the way machines understand human language. I thrive in dynamic environments and I'm always eager to tackle new challenges and broaden my technical expertise!
 </p>
 
 ## 🎓 Education
