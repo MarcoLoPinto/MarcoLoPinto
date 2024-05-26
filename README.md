@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hello! Welcome to my GitHub profile!
+
+- 🤖 MSc in Artificial Intelligence & Robotics
+- 💻 BSc in Computer Engineering
 
 <!--
 **MarcoLoPinto/MarcoLoPinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
