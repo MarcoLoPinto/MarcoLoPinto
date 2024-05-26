@@ -11,6 +11,7 @@ Hello! I'm @MarcoLoPinto! My passion lies at the intersection of advanced techno
 
 ## 📚 Courses and Certifications
 - **CyberChallenge.IT**: Admitted to the Italy's National Cybersecurity Training Program for university and high school students, organized by the Cybersecurity National Lab, after successfully passing two entrance examinations.
+- 🚧 Works in Progress... 🚧
 
 ## 🛠️ Projects
 
