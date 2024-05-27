@@ -7,7 +7,7 @@ Hello! I'm @MarcoLoPinto! My passion lies at the intersection of advanced techno
 ## 🎓 Education
 - 🤖 **MSc**: Artificial Intelligence & Robotics at La Sapienza, Rome
 - 💻 **BSc**: Computer Engineering at La Sapienza, Rome
-- **High School**: Applied Sciences, Liceo Scientifico Ettore Majorana, Latina
+- 🏫 **High School**: Applied Sciences, Liceo Scientifico Ettore Majorana, Latina
 
 ## 📚 Courses and Certifications
 - **CyberChallenge.IT**: Admitted to the Italy's National Cybersecurity Training Program for university and high school students, organized by the Cybersecurity National Lab, after successfully passing two entrance examinations.
