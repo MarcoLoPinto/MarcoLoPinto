@@ -10,7 +10,7 @@ Hello! I'm @MarcoLoPinto! My passion lies at the intersection of advanced techno
 - 🏫 **High School**: Applied Sciences, Liceo Scientifico Ettore Majorana, Latina
 
 ## 📚 Courses and Certifications
-- **CyberChallenge.IT**: Admitted to the Italy's National Cybersecurity Training Program for university and high school students, organized by the Cybersecurity National Lab, after successfully passing two entrance examinations.
+- **CyberChallenge.IT**: Admitted to the Italy's National Cybersecurity Training Program for university and high school students, organized by the Cybersecurity National Lab, after successfully passing three entrance examinations.
 - 🚧 Works in Progress... 🚧
 
 ## 📄 Published Papers
