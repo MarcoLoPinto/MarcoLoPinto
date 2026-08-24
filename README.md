@@ -14,7 +14,7 @@ Currently working on industrial AI R&D. Previously Research Fellow at Sapienza U
 - 🏫 **High School**: Applied Sciences, Liceo Scientifico Ettore Majorana, Latina
 
 ## 📚 Courses and Certifications
-- **CyberChallenge.IT**: Admitted to the Italy's National Cybersecurity Training Program for university and high school students, organized by the Cybersecurity National Lab, after successfully passing three entrance examinations.
+- **CyberChallenge.IT**: Admitted to the Italy's National Cybersecurity Training Program for university and high school students, organized by the Cybersecurity National Lab, after successfully passing three entrance examinations (13.7% acceptance rate).
 - 🚧 Works in Progress... 🚧
 
 ## 📄 Published Papers
