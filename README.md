@@ -4,6 +4,10 @@
 Hello! I'm @MarcoLoPinto! My passion lies at the intersection of advanced technology and real-world applications, with a strong focus on developing practical AI and machine learning solutions. I have been involved in research projects centered around natural language processing and semantic analysis, aiming to enhance the way machines understand human language. I thrive in dynamic environments and I'm always eager to tackle new challenges and broaden my technical expertise!
 </p>
 
+<p align="justify">
+Currently working on industrial AI R&D. Previously Research Fellow at Sapienza University of Rome.
+</p>
+
 ## 🎓 Education
 - 🤖 **MSc**: Artificial Intelligence & Robotics at La Sapienza, Rome
 - 💻 **BSc**: Computer Engineering at La Sapienza, Rome
